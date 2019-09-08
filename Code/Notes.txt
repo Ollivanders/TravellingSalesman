@@ -1,0 +1,8 @@
+
+Here are the implementations.
+
+Run algorithms through the main class with a choice of search case.
+
+Algorithms have commented out sections to display experimentation which can be uncommented to try each out/, however the combination of experiments present in each current is found to be most effective at deriving solutions...
+
+The 2 algorithms are Simulated Annealing and Ant Colony. The ant colony uses the ant class for ant objects. In addition the AntAnnealing script can also be run from main which runs AntColony and then passes the result into annealing. 
